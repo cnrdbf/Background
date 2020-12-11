@@ -6,3 +6,5 @@ I also attended Smithton Middle School before graduating from Hickman.
 I participated in many sports as a child and always had a facination with video games, starting with playing LEGO Star Wars as a kid with my father.
 
 ![image](https://user-images.githubusercontent.com/75334721/101958047-309c9c00-3bc8-11eb-8848-4e8a8ce190d2.png)
+
+[Return to Home Page](https://github.com/cnrdbf/connorrichit1000.git)
